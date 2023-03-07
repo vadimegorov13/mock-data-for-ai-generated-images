@@ -1,4 +1,4 @@
-module mock_data
+module github.com/vadimegorov13/go-mock-data
 
 go 1.20
 
